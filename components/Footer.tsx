@@ -66,8 +66,8 @@ export default function Footer() {
                 </li>
               ))}
             </ul>
-            <a href="mailto:stacknovatechnologies@zohomail.in" className="mt-6 inline-block text-sm text-ink/80 transition-colors hover:text-accent-cyan">
-              stacknovatechnologies@zohomail.in
+            <a href="mailto:hello@stacknova.in" className="mt-6 inline-block text-sm text-ink/80 transition-colors hover:text-accent-cyan">
+              hello@stacknova.in
             </a>
           </div>
         </div>

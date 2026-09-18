@@ -70,8 +70,8 @@ export default function Contact() {
             <div>
               <dt className="text-[11px] font-semibold uppercase tracking-eyebrow text-muted">Email</dt>
               <dd className="mt-1">
-                <a href="mailto:stacknovatechnologies@zohomail.in" className="text-base text-ink transition-colors hover:text-accent-cyan">
-                    stacknovatechnologies@zohomail.in
+                <a href="mailto:hello@stacknova.in" className="text-base text-ink transition-colors hover:text-accent-cyan">
+                    hello@stacknova.in
                 </a>
               </dd>
             </div>
@@ -87,7 +87,7 @@ export default function Contact() {
             </div>
           </dl>
 
-          <a href="mailto:stacknovatechnologies@zohomail.in" className="btn-primary mt-10">
+          <a href="mailto:hello@stacknova.in" className="btn-primary mt-10">
             Start a Project
           </a>
         </motion.div>
