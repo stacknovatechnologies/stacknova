@@ -1,4 +1,4 @@
-# StackNova Technologies — Deployment Guide
+# StackNova Technologies — Deployment Guide 
 
 This project is a **Next.js 14 static export**. It produces a plain HTML/CSS/JS
 site in the `dist/` folder, so it runs on **GoDaddy shared hosting** (no Node.js
