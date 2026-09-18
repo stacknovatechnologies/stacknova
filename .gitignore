@@ -4,7 +4,6 @@
 # next.js / static export output
 /.next/
 /out/
-/dist/
 
 # misc
 .DS_Store
